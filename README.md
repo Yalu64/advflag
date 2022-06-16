@@ -1,5 +1,5 @@
 # advflag
-A fast and advanced and simple command line argument parser written in pure go and up to 4x faster than build in flag package.
+A fast and advanced and simple command line argument parser written in pure go and up to 2-4x faster than build in flag package.
 
 # Benchmark
 *GOMAXPROCS=1*
