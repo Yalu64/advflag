@@ -31,15 +31,4 @@ true
 
 # Syntax
 * Message shows up when -help, ? is typed as first argument. Displays all added arguments with type, default value and usage
-```
-Syntax of AppName
-        string (usage: <nil>)
-                -string <string> [default: this_is_an_test_value]
-        int (usage: Scary number also known as 2^8)
-                -int <int> [default: 256]
-        uint (usage: hehe)
-                -uint <uint64> [default: 512]
-        bool (usage: <nil>)
-                --bool <bool> [default: false]
-
-```                
+        
